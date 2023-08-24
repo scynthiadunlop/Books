@@ -1,5 +1,5 @@
 # Books
-Some of the books I've co-authored / ghostwritten
+Some of the books I've co-authored / ghostwritten:
 - [Database Performance at Scale](https://www.amazon.com/Database-Performance-Scale-Practical-Guide/dp/1484297105)
 - [Automated Defect Prevention](https://0ffaaf2d-3e3c-46b4-ade1-36f3614edf6e.filesusr.com/ugd/ae4a12_7b4184e7afc04e47a12e87dc18b094fa.pdf)
 - [The Long-Term Benefits of Beautiful Design (contributed chapter)](https://0ffaaf2d-3e3c-46b4-ade1-36f3614edf6e.filesusr.com/ugd/ae4a12_f831d76b12e143f9b78075c5a007aa9f.pdf)
